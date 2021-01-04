@@ -15,3 +15,14 @@ h1 {
 .textHilight {
     color: orange;
 }
+
+.half-width {
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+
+.half-width img {
+    width: 100%;
+}
